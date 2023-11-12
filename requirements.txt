@@ -3,7 +3,5 @@ yfinance
 altair
 pandas
 requests
-pysqlite3
 beautifulsoup4
 numpy
-matplotlib
