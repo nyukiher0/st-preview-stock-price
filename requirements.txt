@@ -2,8 +2,8 @@ streamlit
 yfinance
 altair
 pandas
-splite3
 requests
+pysqlite3
 beautifulsoup4
 numpy
 matplotlib
