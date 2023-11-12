@@ -1,5 +1,5 @@
 # 米国株式株価表示/予想アプリ
-リリースページ : 
+リリースページ : https://st-preview-stock-price-demo.streamlit.app/
 
 本サイトは、[爆速で5つのPython Webアプリを開発](https://www.udemy.com/course/python-streamlit/)を参考に作成したアプリです。
 しかしながら、上述Udemy講義とは、以下の点で内容が大きく異なります。
