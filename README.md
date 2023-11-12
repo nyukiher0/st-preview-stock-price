@@ -54,7 +54,7 @@ $ streamlit run app.py
 - altair
 - pandas
 - splite3
-- (任意)reqyests
+- (任意)requests
 - (任意)beautifulsoup4
 - (任意)numpy
 - (任意)matplotlib
